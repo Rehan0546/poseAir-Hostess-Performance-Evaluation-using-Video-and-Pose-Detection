@@ -1,4 +1,4 @@
-
+Note: Other files can be downlaoded from yolov5 repository, https://github.com/ultralytics/yolov5
 # Air Hostess Performance Evaluation using Video and Pose Detection
 
 This repository contains a Python script designed to evaluate the performance of air hostesses by analyzing video footage. The script detects and tracks individuals, identifies specific actions based on audio cues, and calculates pose accuracy scores by comparing detected poses against predefined reference poses.
